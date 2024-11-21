@@ -1,0 +1,30 @@
+ul{
+    color: rgb(90, 14, 212) ;
+}
+body {
+    background-color:#4CC9FE; 
+    background-image: url('https://wallpapercave.com/wp/wp3614899.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-style: italic;
+}
+img{
+
+    border-color:#ED3EF7 ; border-width: 15pX; height: 450px; width: 800px; align-items: center;border-style: solid;
+}
+u{
+    color:#FFF100;
+}
+h2{
+    color: red;
+}
+h1{
+    color:#FFE31A;
+}
+p{color:#1A1 ;}
+h3{color: black;}
